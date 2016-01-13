@@ -48,7 +48,7 @@ Install
 -------
 
 ```
-$ npm install needle-retry
+$ npm install needle-retry-x
 ```
 
 Usage
