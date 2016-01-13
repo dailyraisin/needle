@@ -4,7 +4,7 @@ Needle-Retry
 The leanest and most handsome HTTP client in the Nodelands.
 
 ```js
-var needle = require('needle');
+var needle = require('needle-retry-x');
 
 needle.get('http://www.google.com', function(error, response) {
   if (!error && response.statusCode == 200)
