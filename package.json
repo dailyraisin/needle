@@ -1,5 +1,5 @@
 {
-  "name": "needle",
+  "name": "needle-retry",
   "version": "0.11.0",
   "description": "The leanest and most handsome HTTP client in the Nodelands.",
   "keywords": [
@@ -35,9 +35,19 @@
     "redirect"
   ],
   "author": "Tomás Pollak <tomas@forkhq.com>",
+  "contributors": [
+    {
+      "name": "Lucas Pelegrino",
+      "email": "lucas.wxp@gmail.com"
+    },
+    {
+      "name": "Joe K",
+      "email": "joe@dailyraisin.com"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomas/needle.git"
+    "url": "https://github.com/dailyraisin/needle.git"
   },
   "dependencies": {
     "debug": "^2.1.2",

@@ -1,7 +1,5 @@
-Needle
+Needle-Retry
 ======
-
-[![NPM](https://nodei.co/npm/needle.png)](https://nodei.co/npm/needle/)
 
 The leanest and most handsome HTTP client in the Nodelands.
 
@@ -50,7 +48,7 @@ Install
 -------
 
 ```
-$ npm install needle
+$ npm install needle-retry
 ```
 
 Usage
